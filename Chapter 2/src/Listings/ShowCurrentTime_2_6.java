@@ -28,7 +28,7 @@ public class ShowCurrentTime_2_6 {
 		//Finally ready to display the results
 		System.out.println("Current time is " + currentHour + ":" + currentMinute + ":" + currentSecond + "GMT");
 		
-		//Next step would be to make the clock update itself without having to rerun the source
+		//Next step would be to make the clock update itself without having to rerun the source code
 	}
 
 }
